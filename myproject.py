@@ -24,7 +24,7 @@ def vote():
     return render_template('results.html', yes_votes=yes_votes, no_votes=no_votes, correct_votes=correct_votes)
 
         
-
+#  Testing automated build - clarjc3
 
 
 
